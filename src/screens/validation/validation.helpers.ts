@@ -1,0 +1,1 @@
+export const generateRandomNumber = () => ("" + Math.random()).substring(2, 8)
